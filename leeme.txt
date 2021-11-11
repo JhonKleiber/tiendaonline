@@ -1,0 +1,11 @@
+En este proyecto podemos encontrar dos bases de datos:
+
+1. bbdd_estandar: No posee ningún registro.
+2. bbdd_con_datos: Posee los registros para plantear un escenario inicial. Es recomendable importar esta base de datos.
+
+Para acceder al panel de administración las credenciales son las siguientes:
+usuario: Jhon
+contraseña: 123
+
+Autor: Jhon Eduard Alzate Gómez
+Asignatura: Implantación de Aplicaciones Web
